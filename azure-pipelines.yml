@@ -3,7 +3,7 @@
 # Add steps that publish symbols, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
 # 0nce upon a time there was a king who ruled this country ,was walking with
-his minister and they are discussing about administration in the country.
+# his minister and they are discussing about administration in the country.
 
 trigger:
 - master
